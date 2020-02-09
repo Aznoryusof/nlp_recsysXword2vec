@@ -13,9 +13,9 @@ Next install the necessary libraries
    activate word2vec
    ```
 
-2. Install libraries from requirements.txt using conda. For windows, run the following:
+2. Install libraries from requirements.txt using conda. For windows, run the following in the terminal:
 	```
-   install libraries from requirements.txt using conda
+   for /f %i in (requirements.txt) do conda install --yes %i
    ```
 
 Next just run the analysis through the jupyter notebook and you're on your way to developing your own product embeddings!
