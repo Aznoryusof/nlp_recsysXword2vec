@@ -22,3 +22,7 @@ Next just run the analysis through the jupyter notebook and you're on your way t
 
 ## Data Source
 [E-Commerce Data](https://www.kaggle.com/carrie1/ecommerce-data)
+
+
+## Final product embedding for a subset of products
+![T-sne of product embeddings](/images/t-sne.png)
